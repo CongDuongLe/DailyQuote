@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "qq",
+    "name": "Quote of the Day",
     "slug": "qq",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/react.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/pika.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
